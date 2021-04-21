@@ -23,4 +23,4 @@ Canada
 ```
 ### We look forward to your business!
 
-Buy our high quality products today at affordable prices and great customer service. 
+Buy our high quality products today at affordable prices and with great customer service. 
