@@ -9,11 +9,11 @@ KozoKozo is a Canadian supplier of high quality consumer products at affordable 
 You can find our products on Amazon, brick-and-mortar stores, social media shops, and more! 
 
 ```markdown
-##Get in touch:
+###Get in touch:
 Email: kozokozostore@gmail.com
 Website: www.kozokozo.com
 
-##Headquarters:
+###Headquarters:
 21 King Street West
 Hamilton, Ontario
 L8P 4W7
