@@ -10,15 +10,8 @@ You can find our products on Amazon, brick-and-mortar stores, social media shops
 
 ### Get in touch 
 ```markdown
-Get in touch
 Email: kozokozostore@gmail.com
 Website: www.kozokozo.com
-
-### Sales Channels 
-21 King Street West
-Hamilton, Ontario
-L8P 4W7
-Canada
 ```
 
 ### Headquarters
