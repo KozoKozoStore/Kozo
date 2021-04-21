@@ -13,6 +13,12 @@ Get in touch:
 
 Email: kozokozostore@gmail.com
 Website: www.kozokozo.com
+
+Headquarters:
+21 King Street West
+Hamilton, Ontario
+L8P 4W7
+Canada
 ```
 
 ### We look forward to your business!
