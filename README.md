@@ -3,7 +3,7 @@
 
 ## KozoKozo Consumer Products
 
-KozoKozo is a Toronto-based supplier of high quality consumer products at affordable prices! 
+KozoKozo is a Canadian supplier of high quality consumer products at affordable prices! 
 
 ### Sales Channels 
 
