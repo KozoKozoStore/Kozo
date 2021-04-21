@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/82908376/115480911-7b36c080-a219-11eb-9fc6-9a1043377bd4.png)
 
 
-## KozoKozo Consumer Products
 
 KozoKozo is a Canadian supplier of high quality consumer products at affordable prices! 
 
