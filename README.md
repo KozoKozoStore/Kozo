@@ -13,7 +13,7 @@ You can find our products on Amazon, brick-and-mortar stores, social media shops
 Email: kozokozostore@gmail.com
 Website: www.kozokozo.com
 
-## Headquarters
+### Sales Channels 
 21 King Street West
 Hamilton, Ontario
 L8P 4W7
