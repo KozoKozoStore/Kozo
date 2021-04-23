@@ -2,11 +2,15 @@
 
 
 
-KozoKozo is a Canadian supplier of high quality consumer products at affordable prices! 
+KozoKozo is a Canadian supplier of high quality consumer products and business supplies at affordable prices! 
 
 ### Sales Channels 
 
-You can find our products on Amazon, brick-and-mortar stores, social media shops, and more! 
+You can find our products on Amazon, brick-and-mortar stores, e-commerce shops, or by contacting us directly! 
+
+### Looking for something particular? 
+
+Let us know! Whether its one item or in wholesale amounts; we will get it for you!
 
 ### Get in touch 
 ```markdown
