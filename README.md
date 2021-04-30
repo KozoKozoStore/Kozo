@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/82908376/116760580-4aa61200-a9e3-11eb-85af-72d21c9c16fa.png)
-
+![image](https://user-images.githubusercontent.com/82908376/116760615-614c6900-a9e3-11eb-8ffb-5924e6ca6d71.png)
 
 
 KozoKozo is a Canadian supplier of high quality consumer products and business supplies at affordable prices! 
