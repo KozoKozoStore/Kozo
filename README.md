@@ -19,9 +19,7 @@ Website: www.kozokozo.com
 
 ### Headquarters
 ```markdown
-21 King Street West
-Hamilton, Ontario
-L8P 4W7
+Toronto, Ontario
 Canada
 ```
 ### We look forward to your business!
